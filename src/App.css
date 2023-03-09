@@ -21,10 +21,12 @@ header{
     margin-top: 20px;
     margin-bottom: 50px;
     align-items: center;
+     background-color: #333;
+     width: 100%;
 }
 header a{
     text-decoration:none;
-    color: inherit;
+    color: white;
 }
 header a.logo{
     font-weight: bold;
@@ -108,6 +110,7 @@ div.post-page div.image img{
     object-position: center center;
     width: 100%;
 }
+
 div.post-page a{
     color:#333;
     text-decoration: underline;
